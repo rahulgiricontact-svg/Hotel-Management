@@ -134,7 +134,7 @@ function Home() {
                 “Easy checkout process and multiple payment options.”
               </p>
               <p className="mt-2 font-semibold text-gray-900">
-                Rahul
+                Rahul giri
               </p>
             </div>
           </div>
